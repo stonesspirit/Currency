@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Курсы валют</string>
+    <string name="refreshButton">Обновить курсы валют</string>
+</resources>
